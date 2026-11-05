@@ -1,6 +1,6 @@
 # Hi, I'm Omar Abdallah 👋
 
-**Final-year Software Engineering student (Data Science & AI) at École Polytechnique de Sousse** · Full-Stack Developer · AI Engineer  
+**Final-year Software Engineering student at École Polytechnique de Sousse** · Full-Stack Developer · AI Engineer  
 📍 Monastir, Tunisia · 🎯 Looking for a 6-month **End-of-Studies Internship (PFE)** from February 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--abdallah1-0A66C2?logo=linkedin)](https://www.linkedin.com/in/omar-abdallah1)
